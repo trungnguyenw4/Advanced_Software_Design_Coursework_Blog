@@ -12,7 +12,9 @@ on which category they used their money.
 
 Income class helps the user know what amount of income they received, the source of income as well as the date when that happended.
 
-The user can also Add/ Edit 
+The user can also Add/ Edit transaction.
 
+The program can write what the user has done from a session to a text file and read/load the content of this file for the next session
 
-The program can read and write data from/to a text file.
+All the member will keep studying other requirements of the program and then complete the brain storming process, so the UML desigining and the software developing phases
+can soon be started and delivered.
