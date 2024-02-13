@@ -1,0 +1,18 @@
+[13th Feb 2024]
+
+Attend members: Orkan Kurucan, Yoav Daian, Trung Nguyen, Yamen Kassem 
+
+During this meeting, group members discussed about how the Budget/Expense tracker program should be developed. It will be built to fulfill 
+coursework's basic requirement first then other extended features can be added. All group members agreed that the future program is a console-based one,
+and used by just one user who installed it.
+
+Later, all agreed that the program needs two Class called Budget and Income. Budget class is a supercall that has other expending classes as its child classes.
+This superclass allows the user to add amount of money they spent, the date when they spent as well as take note. Those child clasess help the user keep track
+on which category they used their money.
+
+Income class helps the user know what amount of income they received, the source of income as well as the date when that happended.
+
+The user can also Add/ Edit 
+
+
+The program can read and write data from/to a text file.
