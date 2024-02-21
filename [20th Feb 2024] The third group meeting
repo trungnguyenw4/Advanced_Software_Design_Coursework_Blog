@@ -1,0 +1,12 @@
+[20th Feb 2024]
+
+Location: Cavendish Canteen, Ground Floor, University of Westminster - Cavendish Campus
+Time: 12 - 1.30
+Atending: Orkan Kurucan, Yoav Daian, Trung Nguyen, Yamen Kassem [4/4]
+
+During this meeting, based on the initial UML designed by Orkan Kurucan and Trung Nguyen, the whole team delved into the UML of the program. 
+There must be classes: [Expense] Category - parent class for types of expense: Shoping, Sport, Travelling; 
+                      and Transaction - parent class of [Expense] Category and Income.
+
+The must be a Menu to prompt user with options to interact with the Program:
+
