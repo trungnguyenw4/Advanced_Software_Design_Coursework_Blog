@@ -9,4 +9,19 @@ There must be classes: [Expense] Category - parent class for types of expense: S
                       and Transaction - parent class of [Expense] Category and Income.
 
 The must be a Menu to prompt user with options to interact with the Program:
++addTransaction()
++editTransaction()
++deleteTransaction()
++overallSpendingCalculator()
++categorySpendingCalculator()
++setBudget()
++trackBudget()
++showTransaction()
+
+There is a dataModel class that handles loading and saving user's input from previous sessions.
+
+While Trung Nguyen will be doing his coding task and building program's foundation components from above Classes/features,
+other members will continue working on designing other parts of program and fulfill program's ability.
+
+The next meeting on 27th Feb 2024 will be held online since next week is the reading week and all group members will not be in London.
 
