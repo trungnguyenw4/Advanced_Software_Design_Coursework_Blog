@@ -32,6 +32,6 @@ __Developed by:__
 James,
 Orkan,
 Joav,
-Yamen,
+Yamen
 
 Deadline: 21st March
