@@ -1,7 +1,7 @@
 __Budget Tracking Program__
 
 
-Welcome to our budget tracking program! This program is a part of our university coursework project developed by James, Joav, Orkan, and Yamen. The deadline for this project is [21st of March].
+Welcome to our budget tracking program! This program is a part of our university coursework project developed by James, Joav, Orkan, and Yamen. The deadline for this project is 21st of March.
 
 __Introduction__
 
