@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3B041E98-80A1-428B-AFEA-6872664577E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExpenseBudgetTracker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpenseBudgetTracker/transactionType.cs">
+    <Files>
+      <File FileName="ExpenseBudgetTracker/Program.cs" Line="95" Column="29" />
+      <File FileName="ExpenseBudgetTracker/Transaction.cs" Line="27" Column="10" />
+      <File FileName="ExpenseBudgetTracker/Expense.cs" Line="9" Column="1" />
+      <File FileName="ExpenseBudgetTracker/Income.cs" Line="9" Column="10" />
+      <File FileName="ExpenseBudgetTracker/Budget.cs" Line="29" Column="6" />
+      <File FileName="ExpenseBudgetTracker/DataController.cs" Line="7" Column="29" />
+      <File FileName="ExpenseBudgetTracker/ExpenseTracker.cs" Line="34" Column="1" />
+      <File FileName="ExpenseBudgetTracker/Category.cs" Line="11" Column="10" />
+      <File FileName="ExpenseBudgetTracker/transactionType.cs" Line="4" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExpenseBudgetTracker" expanded="True">
+            <Node name="ExpenseBudgetTracker" expanded="True">
+              <Node name="transactionType.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ExpenseBudgetTracker" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
