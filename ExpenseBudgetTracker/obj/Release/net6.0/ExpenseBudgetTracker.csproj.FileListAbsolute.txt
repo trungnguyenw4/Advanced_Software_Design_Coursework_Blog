@@ -1,0 +1,17 @@
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/bin/Release/net6.0/ExpenseBudgetTracker
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/bin/Release/net6.0/ExpenseBudgetTracker.deps.json
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/bin/Release/net6.0/ExpenseBudgetTracker.runtimeconfig.json
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/bin/Release/net6.0/ExpenseBudgetTracker.dll
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/bin/Release/net6.0/ExpenseBudgetTracker.pdb
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/bin/Release/net6.0/Newtonsoft.Json.dll
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.csproj.AssemblyReference.cache
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.AssemblyInfoInputs.cache
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.AssemblyInfo.cs
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.csproj.CoreCompileInputs.cache
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.csproj.CopyComplete
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.dll
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/refint/ExpenseBudgetTracker.dll
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.pdb
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ExpenseBudgetTracker.genruntimeconfig.cache
+/Users/trungnguyen/Desktop/ExpenseBudgetTracker/ExpenseBudgetTracker/obj/Release/net6.0/ref/ExpenseBudgetTracker.dll

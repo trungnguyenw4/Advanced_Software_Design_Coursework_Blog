@@ -1,0 +1,4 @@
+200,Expense,Food,I bought food for the whole week,False
+500,Expense,Electronic,I bought an IPhone,False
+Food,450
+Electronic,800

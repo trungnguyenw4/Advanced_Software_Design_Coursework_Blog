@@ -1,0 +1,4 @@
+Book,500
+shopping,500
+Food,450
+Electronic,450
